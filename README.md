@@ -1,5 +1,5 @@
-# 1082 課程筆記@NCCU
-> Graduate student note in National Chengchi University's Digital Content and Technology Department
+# 1082 課程總表@NCCU
+> Graduate student's notes in National Chengchi University's Digital Content and Technology Department
 
 這個筆記是 2020 年上半年我在政大數位內容系上修課的內容。
 
