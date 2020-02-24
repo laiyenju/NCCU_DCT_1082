@@ -1,4 +1,4 @@
-# 政治大學數位內容與科技研究所 1082 課程筆記
+# 1082 課程筆記@NCCU
 > Graduate student note in National Chengchi University's Digital Content and Technology Department
 
 這個筆記是 2020 年上半年我在政大數位內容系上修課的內容。
@@ -73,3 +73,6 @@
 - 課堂實作(Logic Pro、Cubase 軟體應用)
 - 課堂實作(Logic Pro、Cubase 軟體應用)
 - 期末專案
+
+
+###### tags: `NCCU`
